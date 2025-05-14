@@ -1,0 +1,1 @@
+# Quine-Mckluskey-algorithm-bbumbae
